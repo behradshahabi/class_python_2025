@@ -1,0 +1,3 @@
+songs = ["song 1","song 2", "song 3", "song 4", "song 5", "song 6", "song 7", "song 8", "song 9", "song 10"]
+
+print (songs[6:])
